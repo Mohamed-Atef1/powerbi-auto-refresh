@@ -21,4 +21,4 @@ jobs:
         run: pip install requests
 
       - name: Run Python script
-        run: python import requests.py
+        run: python import_requests.py
