@@ -74,3 +74,16 @@ if __name__ == "__main__":
 
     if token:
         data = get_profit_and_loss(token)
+
+
+
+import pandas as pd
+
+if data:
+    # استخرج الجدول المطلوب من JSON (مثلاً profit_and_loss)
+    profit_loss = data.get("profit_and_loss", [])
+    df = pd.json_normalize(profit_loss)
+    df.to_csv("profit_loss.csv", index=False, encoding="utf-8-sig")
+    print("✅ Data saved to profit_loss.csv")
+
+
