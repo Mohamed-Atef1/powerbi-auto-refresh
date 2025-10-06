@@ -1,0 +1,41 @@
+name: Auto Refresh Zoho Data
+
+on:
+  schedule:
+    - cron: "0 * * * *"   # يشغل السكربت كل ساعة (0 دقيقة من كل ساعة)
+  workflow_dispatch:       # يسمح لك بتشغيله يدويًا من GitHub
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests pandas
+
+      - name: Run Zoho Refresh Script
+        env:
+          CLIENT_ID: ${{ secrets.CLIENT_ID }}
+          CLIENT_SECRET: ${{ secrets.CLIENT_SECRET }}
+          REFRESH_TOKEN: ${{ secrets.REFRESH_TOKEN }}
+          ORG_ID: ${{ secrets.ORG_ID }}
+        run: |
+          python import_requests.py   # ← غيّر هذا باسم ملف بايثون بتاعك
+
+      - name: Commit and Push Updated CSV
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+          git add profit_loss.csv
+          git diff-index --quiet HEAD || git commit -m "Auto update profit & loss data"
+          git push
