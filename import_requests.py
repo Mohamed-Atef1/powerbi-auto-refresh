@@ -1,6 +1,7 @@
 import os
 import requests
 import json
+import pandas as pd
 
 # ✅ قراءة المتغيرات من GitHub Secrets
 client_id = os.getenv("CLIENT_ID")
@@ -64,6 +65,11 @@ def get_profit_and_loss(access_token):
         print(f"❌ Failed to fetch data: {response.text}")
         return None
 
+
+# ==============================
+#  الجزء الرئيسي للتشغيل
+# ==============================
+
 if __name__ == "__main__":
     token = load_token()
     if not token:
@@ -75,15 +81,8 @@ if __name__ == "__main__":
     if token:
         data = get_profit_and_loss(token)
 
-
-
-import pandas as pd
-
-if data:
-    # استخرج الجدول المطلوب من JSON (مثلاً profit_and_loss)
-    profit_loss = data.get("profit_and_loss", [])
-    df = pd.json_normalize(profit_loss)
-    df.to_csv("profit_loss.csv", index=False, encoding="utf-8-sig")
-    print("✅ Data saved to profit_loss.csv")
-
-
+    if data:
+        profit_loss = data.get("profit_and_loss", [])
+        df = pd.json_normalize(profit_loss)
+        df.to_json("profit_loss.json", orient="records", indent=4, force_ascii=False)
+        print("✅ Data saved to profit_loss.json")
