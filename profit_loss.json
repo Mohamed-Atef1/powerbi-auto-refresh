@@ -1140,13 +1140,13 @@
         ]
     },
     {
-        "total":9031483.5399999991,
+        "total":9019183.5399999991,
         "previous_values":[
 
         ],
         "account_transactions":[
             {
-                "total":1735669.71,
+                "total":1747969.71,
                 "total_label":"Total Operating Expense",
                 "previous_values":[
 
@@ -1230,7 +1230,7 @@
                     },
                     {
                         "total_sub_account":0.0,
-                        "total":183774.75,
+                        "total":226374.75,
                         "account_id":"5975823000000101555",
                         "depth":0,
                         "previous_values":[
@@ -1318,25 +1318,6 @@
 
                         ],
                         "account_code":"621301",
-                        "is_collapsed_view":false,
-                        "previous_total":[
-
-                        ]
-                    },
-                    {
-                        "total_sub_account":0.0,
-                        "total":30300.0,
-                        "account_id":"5975823000000101363",
-                        "depth":0,
-                        "previous_values":[
-
-                        ],
-                        "is_child_present":false,
-                        "name":"Consultants fees - 620101 - اتعاب مستشارين",
-                        "previous_total_sub_account":[
-
-                        ],
-                        "account_code":"620101",
                         "is_collapsed_view":false,
                         "previous_total":[
 
@@ -2248,7 +2229,7 @@
         ]
     },
     {
-        "total":9031483.5399999991,
+        "total":9019183.5399999991,
         "previous_values":[
 
         ],
