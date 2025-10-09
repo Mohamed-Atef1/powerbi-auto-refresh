@@ -1,6 +1,6 @@
 [
     {
-        "total":10661006.25,
+        "total":10654272.8300000001,
         "previous_values":[
 
         ],
@@ -95,7 +95,7 @@
                 ]
             },
             {
-                "total":17541798.25,
+                "total":17548531.6700000018,
                 "total_label":"Total Cost of Goods Sold",
                 "previous_values":[
 
@@ -730,7 +730,7 @@
                     },
                     {
                         "total_sub_account":0.0,
-                        "total":40099.74,
+                        "total":46833.16,
                         "account_id":"5975823000000100517",
                         "depth":0,
                         "previous_values":[
@@ -1140,7 +1140,7 @@
         ]
     },
     {
-        "total":8905217.25,
+        "total":8898483.8300000001,
         "previous_values":[
 
         ],
@@ -2229,7 +2229,7 @@
         ]
     },
     {
-        "total":8905217.25,
+        "total":8898483.8300000001,
         "previous_values":[
 
         ],
