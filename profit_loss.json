@@ -1,6 +1,6 @@
 [
     {
-        "total":10623825.1699999999,
+        "total":10620825.1699999999,
         "previous_values":[
 
         ],
@@ -95,7 +95,7 @@
                 ]
             },
             {
-                "total":17578979.3299999982,
+                "total":17581979.3299999982,
                 "total_label":"Total Cost of Goods Sold",
                 "previous_values":[
 
@@ -331,7 +331,7 @@
                     },
                     {
                         "total_sub_account":0.0,
-                        "total":83661.6,
+                        "total":86661.6,
                         "account_id":"5975823000000101141",
                         "depth":0,
                         "previous_values":[
@@ -1140,13 +1140,13 @@
         ]
     },
     {
-        "total":8867336.1699999999,
+        "total":8860186.0899999999,
         "previous_values":[
 
         ],
         "account_transactions":[
             {
-                "total":1756489.0,
+                "total":1760639.0800000001,
                 "total_label":"Total Operating Expense",
                 "previous_values":[
 
@@ -1477,7 +1477,7 @@
                     },
                     {
                         "total_sub_account":0.0,
-                        "total":10709.75,
+                        "total":11479.83,
                         "account_id":"5975823000000101561",
                         "depth":0,
                         "previous_values":[
@@ -1527,6 +1527,25 @@
 
                         ],
                         "account_code":"620401",
+                        "is_collapsed_view":false,
+                        "previous_total":[
+
+                        ]
+                    },
+                    {
+                        "total_sub_account":0.0,
+                        "total":3380.0,
+                        "account_id":"5975823000000103075",
+                        "depth":0,
+                        "previous_values":[
+
+                        ],
+                        "is_child_present":false,
+                        "name":"Emplyee transportation - 720401 - مواصلات موظفين",
+                        "previous_total_sub_account":[
+
+                        ],
+                        "account_code":"720401",
                         "is_collapsed_view":false,
                         "previous_total":[
 
@@ -2229,7 +2248,7 @@
         ]
     },
     {
-        "total":8867336.1699999999,
+        "total":8860186.0899999999,
         "previous_values":[
 
         ],
