@@ -35,7 +35,7 @@ def load_token():
     return None
 
 def get_reporting_tags(token):
-    url = f"https://www.zohoapis.com/books/v3/settings/reportingtags?organization_id={org_id}"
+    url = f"https://www.zohoapis.com/books/v3/reportingtags?organization_id={org_id}"
     headers = {"Authorization": f"Zoho-oauthtoken {token}"}
     res = requests.get(url, headers=headers)
     if res.status_code == 200:
@@ -79,3 +79,4 @@ if __name__ == "__main__":
         json.dump(all_reports, f, ensure_ascii=False, indent=2)
 
     print("✅ Saved all P&L reports by Reporting Tag → profit_loss_by_tag.json")
+
