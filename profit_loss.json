@@ -1,6 +1,6 @@
 [
     {
-        "total":10620825.1699999999,
+        "total":10614525.1699999999,
         "previous_values":[
 
         ],
@@ -95,7 +95,7 @@
                 ]
             },
             {
-                "total":17581979.3299999982,
+                "total":17588279.3299999982,
                 "total_label":"Total Cost of Goods Sold",
                 "previous_values":[
 
@@ -255,7 +255,7 @@
                     },
                     {
                         "total_sub_account":0.0,
-                        "total":419019.0,
+                        "total":422019.0,
                         "account_id":"5975823000000100613",
                         "depth":0,
                         "previous_values":[
@@ -597,7 +597,7 @@
                     },
                     {
                         "total_sub_account":0.0,
-                        "total":892528.0,
+                        "total":895828.0,
                         "account_id":"5975823000000101195",
                         "depth":0,
                         "previous_values":[
@@ -1140,13 +1140,13 @@
         ]
     },
     {
-        "total":8860186.0899999999,
+        "total":8850821.7100000009,
         "previous_values":[
 
         ],
         "account_transactions":[
             {
-                "total":1760639.0800000001,
+                "total":1763703.46,
                 "total_label":"Total Operating Expense",
                 "previous_values":[
 
@@ -1287,7 +1287,7 @@
                     },
                     {
                         "total_sub_account":0.0,
-                        "total":915.4,
+                        "total":1518.88,
                         "account_id":"5975823000000102985",
                         "depth":0,
                         "previous_values":[
@@ -1534,7 +1534,7 @@
                     },
                     {
                         "total_sub_account":0.0,
-                        "total":3380.0,
+                        "total":3730.0,
                         "account_id":"5975823000000103075",
                         "depth":0,
                         "previous_values":[
@@ -1641,6 +1641,25 @@
 
                         ],
                         "account_code":"630301",
+                        "is_collapsed_view":false,
+                        "previous_total":[
+
+                        ]
+                    },
+                    {
+                        "total_sub_account":0.0,
+                        "total":458.2,
+                        "account_id":"5975823000000101621",
+                        "depth":0,
+                        "previous_values":[
+
+                        ],
+                        "is_child_present":false,
+                        "name":"Gifts - 621203 - هدايا",
+                        "previous_total_sub_account":[
+
+                        ],
+                        "account_code":"621203",
                         "is_collapsed_view":false,
                         "previous_total":[
 
@@ -2180,7 +2199,7 @@
                     },
                     {
                         "total_sub_account":0.0,
-                        "total":4983.7,
+                        "total":6636.4,
                         "account_id":"5975823000000101285",
                         "depth":0,
                         "previous_values":[
@@ -2248,7 +2267,7 @@
         ]
     },
     {
-        "total":8860186.0899999999,
+        "total":8850821.7100000009,
         "previous_values":[
 
         ],
