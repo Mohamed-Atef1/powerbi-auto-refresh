@@ -1,6 +1,6 @@
 [
     {
-        "total":10597905.7699999996,
+        "total":10592205.7699999996,
         "previous_values":[
 
         ],
@@ -95,7 +95,7 @@
                 ]
             },
             {
-                "total":17604898.7300000004,
+                "total":17610598.7300000004,
                 "total_label":"Total Cost of Goods Sold",
                 "previous_values":[
 
@@ -559,7 +559,7 @@
                     },
                     {
                         "total_sub_account":0.0,
-                        "total":400.0,
+                        "total":800.0,
                         "account_id":"5975823000000100709",
                         "depth":0,
                         "previous_values":[
@@ -711,7 +711,7 @@
                     },
                     {
                         "total_sub_account":0.0,
-                        "total":25400.25,
+                        "total":25700.25,
                         "account_id":"5975823000000100637",
                         "depth":0,
                         "previous_values":[
@@ -1129,7 +1129,7 @@
                     },
                     {
                         "total_sub_account":0.0,
-                        "total":33631.0,
+                        "total":38631.0,
                         "account_id":"5975823000000100715",
                         "depth":0,
                         "previous_values":[
@@ -1159,13 +1159,13 @@
         ]
     },
     {
-        "total":8831721.3100000005,
+        "total":8823273.4800000004,
         "previous_values":[
 
         ],
         "account_transactions":[
             {
-                "total":1766184.46,
+                "total":1768932.29,
                 "total_label":"Total Operating Expense",
                 "previous_values":[
 
@@ -1553,7 +1553,7 @@
                     },
                     {
                         "total_sub_account":0.0,
-                        "total":3730.0,
+                        "total":6477.83,
                         "account_id":"5975823000000103075",
                         "depth":0,
                         "previous_values":[
@@ -2286,7 +2286,7 @@
         ]
     },
     {
-        "total":8831721.3100000005,
+        "total":8823273.4800000004,
         "previous_values":[
 
         ],
