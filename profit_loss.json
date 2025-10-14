@@ -1,6 +1,6 @@
 [
     {
-        "total":10614344.1699999999,
+        "total":10597905.7699999996,
         "previous_values":[
 
         ],
@@ -95,7 +95,7 @@
                 ]
             },
             {
-                "total":17588460.3299999982,
+                "total":17604898.7300000004,
                 "total_label":"Total Cost of Goods Sold",
                 "previous_values":[
 
@@ -426,7 +426,7 @@
                     },
                     {
                         "total_sub_account":0.0,
-                        "total":420.0,
+                        "total":2220.0,
                         "account_id":"5975823000000100739",
                         "depth":0,
                         "previous_values":[
@@ -540,7 +540,7 @@
                     },
                     {
                         "total_sub_account":0.0,
-                        "total":129796.74,
+                        "total":143635.14,
                         "account_id":"5975823000000100703",
                         "depth":0,
                         "previous_values":[
@@ -552,6 +552,25 @@
 
                         ],
                         "account_code":"520501",
+                        "is_collapsed_view":false,
+                        "previous_total":[
+
+                        ]
+                    },
+                    {
+                        "total_sub_account":0.0,
+                        "total":400.0,
+                        "account_id":"5975823000000100709",
+                        "depth":0,
+                        "previous_values":[
+
+                        ],
+                        "is_child_present":false,
+                        "name":"Hospitality preparation fees - 520502 - اتعاب تجهيزات ورش العمل و الضيافة",
+                        "previous_total_sub_account":[
+
+                        ],
+                        "account_code":"520502",
                         "is_collapsed_view":false,
                         "previous_total":[
 
@@ -692,7 +711,7 @@
                     },
                     {
                         "total_sub_account":0.0,
-                        "total":25000.25,
+                        "total":25400.25,
                         "account_id":"5975823000000100637",
                         "depth":0,
                         "previous_values":[
@@ -1140,13 +1159,13 @@
         ]
     },
     {
-        "total":8850640.7100000009,
+        "total":8831721.3100000005,
         "previous_values":[
 
         ],
         "account_transactions":[
             {
-                "total":1763703.46,
+                "total":1766184.46,
                 "total_label":"Total Operating Expense",
                 "previous_values":[
 
@@ -1800,7 +1819,7 @@
                     },
                     {
                         "total_sub_account":0.0,
-                        "total":3505.71,
+                        "total":5986.71,
                         "account_id":"5975823000000101333",
                         "depth":0,
                         "previous_values":[
@@ -2267,7 +2286,7 @@
         ]
     },
     {
-        "total":8850640.7100000009,
+        "total":8831721.3100000005,
         "previous_values":[
 
         ],
