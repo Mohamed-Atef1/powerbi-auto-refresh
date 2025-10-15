@@ -1159,13 +1159,13 @@
         ]
     },
     {
-        "total":8807086.9700000007,
+        "total":8800888.1999999993,
         "previous_values":[
 
         ],
         "account_transactions":[
             {
-                "total":1771528.8,
+                "total":1777727.5700000001,
                 "total_label":"Total Operating Expense",
                 "previous_values":[
 
@@ -1496,7 +1496,7 @@
                     },
                     {
                         "total_sub_account":0.0,
-                        "total":11479.83,
+                        "total":13074.88,
                         "account_id":"5975823000000101561",
                         "depth":0,
                         "previous_values":[
@@ -1667,7 +1667,7 @@
                     },
                     {
                         "total_sub_account":0.0,
-                        "total":458.2,
+                        "total":958.2,
                         "account_id":"5975823000000101621",
                         "depth":0,
                         "previous_values":[
@@ -1724,7 +1724,7 @@
                     },
                     {
                         "total_sub_account":0.0,
-                        "total":2393.92,
+                        "total":2893.92,
                         "account_id":"5975823000000101567",
                         "depth":0,
                         "previous_values":[
@@ -1895,7 +1895,7 @@
                     },
                     {
                         "total_sub_account":0.0,
-                        "total":457.51,
+                        "total":1457.51,
                         "account_id":"5975823000000101399",
                         "depth":0,
                         "previous_values":[
@@ -2142,6 +2142,25 @@
                     },
                     {
                         "total_sub_account":0.0,
+                        "total":2603.72,
+                        "account_id":"5975823000000103123",
+                        "depth":0,
+                        "previous_values":[
+
+                        ],
+                        "is_child_present":false,
+                        "name":"Software and application subscription - 721409 - اشتراكات برامج وتطبيقات",
+                        "previous_total_sub_account":[
+
+                        ],
+                        "account_code":"721409",
+                        "is_collapsed_view":false,
+                        "previous_total":[
+
+                        ]
+                    },
+                    {
+                        "total_sub_account":0.0,
                         "total":6000.0,
                         "account_id":"5975823000000101261",
                         "depth":0,
@@ -2286,7 +2305,7 @@
         ]
     },
     {
-        "total":8807086.9700000007,
+        "total":8800888.1999999993,
         "previous_values":[
 
         ],
