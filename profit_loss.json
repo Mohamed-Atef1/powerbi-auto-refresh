@@ -1,6 +1,6 @@
 [
     {
-        "total":10657879.6699999999,
+        "total":10654679.6699999999,
         "previous_values":[
 
         ],
@@ -95,7 +95,7 @@
                 ]
             },
             {
-                "total":17544924.8299999982,
+                "total":17548124.8299999982,
                 "total_label":"Total Cost of Goods Sold",
                 "previous_values":[
 
@@ -381,6 +381,25 @@
 
                         ],
                         "account_code":"520804",
+                        "is_collapsed_view":false,
+                        "previous_total":[
+
+                        ]
+                    },
+                    {
+                        "total_sub_account":0.0,
+                        "total":3200.0,
+                        "account_id":"5975823000000100631",
+                        "depth":0,
+                        "previous_values":[
+
+                        ],
+                        "is_child_present":false,
+                        "name":"Event organizers fees - 520104 - اتعاب منظمي فعاليات",
+                        "previous_total_sub_account":[
+
+                        ],
+                        "account_code":"520104",
                         "is_collapsed_view":false,
                         "previous_total":[
 
@@ -1159,7 +1178,7 @@
         ]
     },
     {
-        "total":8880152.0999999996,
+        "total":8876952.0999999996,
         "previous_values":[
 
         ],
@@ -2305,7 +2324,7 @@
         ]
     },
     {
-        "total":8880152.0999999996,
+        "total":8876952.0999999996,
         "previous_values":[
 
         ],
