@@ -14,7 +14,7 @@
                 "account_transactions":[
                     {
                         "total_sub_account":0.0,
-                        "total":15036779.5999999996,
+                        "total":20691371.2699999996,
                         "account_id":"5975823000000099419",
                         "depth":0,
                         "previous_values":[
@@ -64,25 +64,6 @@
 
                         ],
                         "account_code":"412",
-                        "is_collapsed_view":false,
-                        "previous_total":[
-
-                        ]
-                    },
-                    {
-                        "total_sub_account":0.0,
-                        "total":5654591.6699999999,
-                        "account_id":"5975823000000000388",
-                        "depth":0,
-                        "previous_values":[
-
-                        ],
-                        "is_child_present":false,
-                        "name":"Sales",
-                        "previous_total_sub_account":[
-
-                        ],
-                        "account_code":"",
                         "is_collapsed_view":false,
                         "previous_total":[
 
@@ -236,7 +217,7 @@
                     },
                     {
                         "total_sub_account":0.0,
-                        "total":55400.0,
+                        "total":122900.0,
                         "account_id":"5975823000000393209",
                         "depth":0,
                         "previous_values":[
@@ -1103,25 +1084,6 @@
 
                         ],
                         "account_code":"530116",
-                        "is_collapsed_view":false,
-                        "previous_total":[
-
-                        ]
-                    },
-                    {
-                        "total_sub_account":0.0,
-                        "total":67500.0,
-                        "account_id":"5975823000000101189",
-                        "depth":0,
-                        "previous_values":[
-
-                        ],
-                        "is_child_present":false,
-                        "name":"Training fees - 530501 - رسوم تدريب",
-                        "previous_total_sub_account":[
-
-                        ],
-                        "account_code":"530501",
                         "is_collapsed_view":false,
                         "previous_total":[
 
