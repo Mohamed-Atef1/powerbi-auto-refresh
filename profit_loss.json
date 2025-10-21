@@ -1,6 +1,6 @@
 [
     {
-        "total":10684555.6899999995,
+        "total":10639412.6899999995,
         "previous_values":[
 
         ],
@@ -76,7 +76,7 @@
                 ]
             },
             {
-                "total":17602031.370000001,
+                "total":17647174.370000001,
                 "total_label":"Total Cost of Goods Sold",
                 "previous_values":[
 
@@ -141,7 +141,7 @@
                     },
                     {
                         "total_sub_account":0.0,
-                        "total":1221329.3500000001,
+                        "total":1265322.3500000001,
                         "account_id":"5975823000000100625",
                         "depth":0,
                         "previous_values":[
@@ -654,7 +654,7 @@
                     },
                     {
                         "total_sub_account":0.0,
-                        "total":875.02,
+                        "total":2025.02,
                         "account_id":"5975823000000100541",
                         "depth":0,
                         "previous_values":[
@@ -1146,7 +1146,7 @@
         ],
         "account_transactions":[
             {
-                "total":1783426.0600000001,
+                "total":1738283.0600000001,
                 "total_label":"Total Operating Expense",
                 "previous_values":[
 
@@ -1230,7 +1230,7 @@
                     },
                     {
                         "total_sub_account":0.0,
-                        "total":224667.0,
+                        "total":146424.0,
                         "account_id":"5975823000000101555",
                         "depth":0,
                         "previous_values":[
@@ -1318,6 +1318,25 @@
 
                         ],
                         "account_code":"621301",
+                        "is_collapsed_view":false,
+                        "previous_total":[
+
+                        ]
+                    },
+                    {
+                        "total_sub_account":0.0,
+                        "total":30300.0,
+                        "account_id":"5975823000000101363",
+                        "depth":0,
+                        "previous_values":[
+
+                        ],
+                        "is_child_present":false,
+                        "name":"Consultants fees - 620101 - اتعاب مستشارين",
+                        "previous_total_sub_account":[
+
+                        ],
+                        "account_code":"620101",
                         "is_collapsed_view":false,
                         "previous_total":[
 
@@ -1686,6 +1705,25 @@
                     },
                     {
                         "total_sub_account":0.0,
+                        "total":1500.0,
+                        "account_id":"5975823000000101861",
+                        "depth":0,
+                        "previous_values":[
+
+                        ],
+                        "is_child_present":false,
+                        "name":"Guides and reports printing - 621106 - طباعة أدلة وتقارير",
+                        "previous_total_sub_account":[
+
+                        ],
+                        "account_code":"621106",
+                        "is_collapsed_view":false,
+                        "previous_total":[
+
+                        ]
+                    },
+                    {
+                        "total_sub_account":0.0,
                         "total":227274.54,
                         "account_id":"5975823000000101537",
                         "depth":0,
@@ -1762,7 +1800,7 @@
                     },
                     {
                         "total_sub_account":0.0,
-                        "total":1800.0,
+                        "total":650.0,
                         "account_id":"5975823000000101267",
                         "depth":0,
                         "previous_values":[
@@ -1888,6 +1926,25 @@
 
                         ],
                         "account_code":"630106",
+                        "is_collapsed_view":false,
+                        "previous_total":[
+
+                        ]
+                    },
+                    {
+                        "total_sub_account":0.0,
+                        "total":2450.0,
+                        "account_id":"5975823000000101597",
+                        "depth":0,
+                        "previous_values":[
+
+                        ],
+                        "is_child_present":false,
+                        "name":"montage fee - 620903 - اتعاب مونتاج",
+                        "previous_total_sub_account":[
+
+                        ],
+                        "account_code":"620903",
                         "is_collapsed_view":false,
                         "previous_total":[
 
