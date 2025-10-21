@@ -1591,25 +1591,6 @@
                     },
                     {
                         "total_sub_account":0.0,
-                        "total":1149.05,
-                        "account_id":"5975823000000103153",
-                        "depth":0,
-                        "previous_values":[
-
-                        ],
-                        "is_child_present":false,
-                        "name":"Empoyees bonus - 730203 - مكافاة موظفين",
-                        "previous_total_sub_account":[
-
-                        ],
-                        "account_code":"730203",
-                        "is_collapsed_view":false,
-                        "previous_total":[
-
-                        ]
-                    },
-                    {
-                        "total_sub_account":0.0,
                         "total":16828.79,
                         "account_id":"5975823000000101243",
                         "depth":0,
@@ -1876,7 +1857,7 @@
                     },
                     {
                         "total_sub_account":0.0,
-                        "total":33000.0,
+                        "total":34149.05,
                         "account_id":"5975823000000102973",
                         "depth":0,
                         "previous_values":[
