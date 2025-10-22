@@ -1,6 +1,6 @@
 [
     {
-        "total":10639412.6899999995,
+        "total":10633445.6899999995,
         "previous_values":[
 
         ],
@@ -76,7 +76,7 @@
                 ]
             },
             {
-                "total":17647174.370000001,
+                "total":17653141.370000001,
                 "total_label":"Total Cost of Goods Sold",
                 "previous_values":[
 
@@ -141,7 +141,7 @@
                     },
                     {
                         "total_sub_account":0.0,
-                        "total":1269322.3500000001,
+                        "total":1270322.3500000001,
                         "account_id":"5975823000000100625",
                         "depth":0,
                         "previous_values":[
@@ -768,6 +768,25 @@
                     },
                     {
                         "total_sub_account":0.0,
+                        "total":270.0,
+                        "account_id":"5975823000000100949",
+                        "depth":0,
+                        "previous_values":[
+
+                        ],
+                        "is_child_present":false,
+                        "name":"Mobile  - 521302 - شحن جوال",
+                        "previous_total_sub_account":[
+
+                        ],
+                        "account_code":"521302",
+                        "is_collapsed_view":false,
+                        "previous_total":[
+
+                        ]
+                    },
+                    {
+                        "total_sub_account":0.0,
                         "total":2500.0,
                         "account_id":"5975823000000100823",
                         "depth":0,
@@ -818,6 +837,25 @@
 
                         ],
                         "account_code":"510306",
+                        "is_collapsed_view":false,
+                        "previous_total":[
+
+                        ]
+                    },
+                    {
+                        "total_sub_account":0.0,
+                        "total":3667.0,
+                        "account_id":"5975823000000101021",
+                        "depth":0,
+                        "previous_values":[
+
+                        ],
+                        "is_child_present":false,
+                        "name":"Other software subscription - 521408 - اشتراك برمجيات أخرى",
+                        "previous_total_sub_account":[
+
+                        ],
+                        "account_code":"521408",
                         "is_collapsed_view":false,
                         "previous_total":[
 
@@ -901,7 +939,7 @@
                     },
                     {
                         "total_sub_account":0.0,
-                        "total":188804.35,
+                        "total":189834.35,
                         "account_id":"5975823000000100661",
                         "depth":0,
                         "previous_values":[
@@ -1140,7 +1178,7 @@
         ]
     },
     {
-        "total":8901129.6300000008,
+        "total":8895162.6300000008,
         "previous_values":[
 
         ],
@@ -2324,7 +2362,7 @@
         ]
     },
     {
-        "total":8901129.6300000008,
+        "total":8895162.6300000008,
         "previous_values":[
 
         ],
