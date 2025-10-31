@@ -1,6 +1,6 @@
 [
     {
-        "total":10630818.3200000003,
+        "total":10629348.3200000003,
         "previous_values":[
 
         ],
@@ -76,7 +76,7 @@
                 ]
             },
             {
-                "total":18375768.7399999984,
+                "total":18377238.7399999984,
                 "total_label":"Total Cost of Goods Sold",
                 "previous_values":[
 
@@ -825,6 +825,25 @@
                     },
                     {
                         "total_sub_account":0.0,
+                        "total":1470.0,
+                        "account_id":"5975823000000100895",
+                        "depth":0,
+                        "previous_values":[
+
+                        ],
+                        "is_child_present":false,
+                        "name":"Official documents printing - 521104 - طباعة مستندات رسمية",
+                        "previous_total_sub_account":[
+
+                        ],
+                        "account_code":"521104",
+                        "is_collapsed_view":false,
+                        "previous_total":[
+
+                        ]
+                    },
+                    {
+                        "total_sub_account":0.0,
                         "total":170154.0,
                         "account_id":"5975823000000100607",
                         "depth":0,
@@ -1178,13 +1197,13 @@
         ]
     },
     {
-        "total":8782054.8200000003,
+        "total":8773144.8200000003,
         "previous_values":[
 
         ],
         "account_transactions":[
             {
-                "total":1848763.5,
+                "total":1856203.5,
                 "total_label":"Total Operating Expense",
                 "previous_values":[
 
@@ -2351,7 +2370,7 @@
                     },
                     {
                         "total_sub_account":0.0,
-                        "total":1440.0,
+                        "total":8880.0,
                         "account_id":"5975823000000101903",
                         "depth":0,
                         "previous_values":[
@@ -2381,7 +2400,7 @@
         ]
     },
     {
-        "total":8782054.8200000003,
+        "total":8773144.8200000003,
         "previous_values":[
 
         ],
