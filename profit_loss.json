@@ -1197,13 +1197,13 @@
         ]
     },
     {
-        "total":8273712.0300000003,
+        "total":8272212.0300000003,
         "previous_values":[
 
         ],
         "account_transactions":[
             {
-                "total":1929873.71,
+                "total":1931373.71,
                 "total_label":"Total Operating Expense",
                 "previous_values":[
 
@@ -2294,7 +2294,7 @@
                     },
                     {
                         "total_sub_account":0.0,
-                        "total":16453.66,
+                        "total":17953.66,
                         "account_id":"5975823000000101453",
                         "depth":0,
                         "previous_values":[
@@ -2400,7 +2400,7 @@
         ]
     },
     {
-        "total":8273712.0300000003,
+        "total":8272212.0300000003,
         "previous_values":[
 
         ],
