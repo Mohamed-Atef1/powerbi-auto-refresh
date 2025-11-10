@@ -1,12 +1,12 @@
 [
     {
-        "total":10149237.9100000001,
+        "total":10241758.5099999998,
         "previous_values":[
 
         ],
         "account_transactions":[
             {
-                "total":29006587.0599999987,
+                "total":29099107.6600000001,
                 "total_label":"Total Operating Income",
                 "previous_values":[
 
@@ -64,6 +64,25 @@
 
                         ],
                         "account_code":"412",
+                        "is_collapsed_view":false,
+                        "previous_total":[
+
+                        ]
+                    },
+                    {
+                        "total_sub_account":0.0,
+                        "total":92520.6,
+                        "account_id":"5975823000000000388",
+                        "depth":0,
+                        "previous_values":[
+
+                        ],
+                        "is_child_present":false,
+                        "name":"Sales",
+                        "previous_total_sub_account":[
+
+                        ],
+                        "account_code":"",
                         "is_collapsed_view":false,
                         "previous_total":[
 
@@ -1197,7 +1216,7 @@
         ]
     },
     {
-        "total":8208628.7999999998,
+        "total":8301149.4000000004,
         "previous_values":[
 
         ],
@@ -2400,7 +2419,7 @@
         ]
     },
     {
-        "total":8208628.7999999998,
+        "total":8301149.4000000004,
         "previous_values":[
 
         ],
