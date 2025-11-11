@@ -1216,13 +1216,13 @@
         ]
     },
     {
-        "total":8301149.4000000004,
+        "total":8293201.2300000004,
         "previous_values":[
 
         ],
         "account_transactions":[
             {
-                "total":1940609.1100000001,
+                "total":1948557.28,
                 "total_label":"Total Operating Expense",
                 "previous_values":[
 
@@ -1306,7 +1306,7 @@
                     },
                     {
                         "total_sub_account":0.0,
-                        "total":165965.0,
+                        "total":168803.0,
                         "account_id":"5975823000000101555",
                         "depth":0,
                         "previous_values":[
@@ -1572,7 +1572,7 @@
                     },
                     {
                         "total_sub_account":0.0,
-                        "total":2250.0,
+                        "total":3750.0,
                         "account_id":"5975823000000102991",
                         "depth":0,
                         "previous_values":[
@@ -1591,7 +1591,7 @@
                     },
                     {
                         "total_sub_account":0.0,
-                        "total":13074.88,
+                        "total":14447.98,
                         "account_id":"5975823000000101561",
                         "depth":0,
                         "previous_values":[
@@ -2047,7 +2047,7 @@
                     },
                     {
                         "total_sub_account":0.0,
-                        "total":2440.76,
+                        "total":3190.76,
                         "account_id":"5975823000000101357",
                         "depth":0,
                         "previous_values":[
@@ -2066,7 +2066,7 @@
                     },
                     {
                         "total_sub_account":0.0,
-                        "total":13750.0,
+                        "total":14750.0,
                         "account_id":"5975823000000103033",
                         "depth":0,
                         "previous_values":[
@@ -2405,6 +2405,25 @@
                         "previous_total":[
 
                         ]
+                    },
+                    {
+                        "total_sub_account":0.0,
+                        "total":487.07,
+                        "account_id":"5975823000000101831",
+                        "depth":0,
+                        "previous_values":[
+
+                        ],
+                        "is_child_present":false,
+                        "name":"Zoom subscription - 621405 - اشتراك موقع Zoom",
+                        "previous_total_sub_account":[
+
+                        ],
+                        "account_code":"621405",
+                        "is_collapsed_view":false,
+                        "previous_total":[
+
+                        ]
                     }
                 ],
                 "name":"Operating Expense",
@@ -2419,7 +2438,7 @@
         ]
     },
     {
-        "total":8301149.4000000004,
+        "total":8293201.2300000004,
         "previous_values":[
 
         ],
