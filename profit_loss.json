@@ -1,6 +1,6 @@
 [
     {
-        "total":10241758.5099999998,
+        "total":10238758.5099999998,
         "previous_values":[
 
         ],
@@ -95,7 +95,7 @@
                 ]
             },
             {
-                "total":18857349.1499999985,
+                "total":18860349.1499999985,
                 "total_label":"Total Cost of Goods Sold",
                 "previous_values":[
 
@@ -958,6 +958,25 @@
                     },
                     {
                         "total_sub_account":0.0,
+                        "total":3000.0,
+                        "account_id":"5975823000000100571",
+                        "depth":0,
+                        "previous_values":[
+
+                        ],
+                        "is_child_present":false,
+                        "name":"Performance bonus - 530202 - مكافأة تميز",
+                        "previous_total_sub_account":[
+
+                        ],
+                        "account_code":"530202",
+                        "is_collapsed_view":false,
+                        "previous_total":[
+
+                        ]
+                    },
+                    {
+                        "total_sub_account":0.0,
                         "total":133500.0,
                         "account_id":"5975823000000100811",
                         "depth":0,
@@ -1216,13 +1235,13 @@
         ]
     },
     {
-        "total":8293201.2300000004,
+        "total":8290037.4699999997,
         "previous_values":[
 
         ],
         "account_transactions":[
             {
-                "total":1948557.28,
+                "total":1948721.04,
                 "total_label":"Total Operating Expense",
                 "previous_values":[
 
@@ -1952,6 +1971,25 @@
                     },
                     {
                         "total_sub_account":0.0,
+                        "total":24.63,
+                        "account_id":"5975823000000103063",
+                        "depth":0,
+                        "previous_values":[
+
+                        ],
+                        "is_child_present":false,
+                        "name":"Logistic & transportation fees - 720105 - اتعاب لوجستية ونقل",
+                        "previous_total_sub_account":[
+
+                        ],
+                        "account_code":"720105",
+                        "is_collapsed_view":false,
+                        "previous_total":[
+
+                        ]
+                    },
+                    {
+                        "total_sub_account":0.0,
                         "total":34149.05,
                         "account_id":"5975823000000102973",
                         "depth":0,
@@ -2097,6 +2135,25 @@
 
                         ],
                         "account_code":"621101",
+                        "is_collapsed_view":false,
+                        "previous_total":[
+
+                        ]
+                    },
+                    {
+                        "total_sub_account":0.0,
+                        "total":139.13,
+                        "account_id":"5975823000000103015",
+                        "depth":0,
+                        "previous_values":[
+
+                        ],
+                        "is_child_present":false,
+                        "name":"Paper printing - 721101 - طباعة ورقية",
+                        "previous_total_sub_account":[
+
+                        ],
+                        "account_code":"721101",
                         "is_collapsed_view":false,
                         "previous_total":[
 
@@ -2438,7 +2495,7 @@
         ]
     },
     {
-        "total":8293201.2300000004,
+        "total":8290037.4699999997,
         "previous_values":[
 
         ],
