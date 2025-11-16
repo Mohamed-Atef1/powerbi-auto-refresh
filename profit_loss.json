@@ -1,6 +1,6 @@
 [
     {
-        "total":10238758.5099999998,
+        "total":10134453.6300000008,
         "previous_values":[
 
         ],
@@ -76,12 +76,31 @@
                 ]
             },
             {
-                "total":18860349.1499999985,
+                "total":18964654.0300000012,
                 "total_label":"Total Cost of Goods Sold",
                 "previous_values":[
 
                 ],
                 "account_transactions":[
+                    {
+                        "total_sub_account":0.0,
+                        "total":52555.0,
+                        "account_id":"5975823000001212005",
+                        "depth":0,
+                        "previous_values":[
+
+                        ],
+                        "is_child_present":false,
+                        "name":"Advertising and promotion - 521109 - دعاية واعلان",
+                        "previous_total_sub_account":[
+
+                        ],
+                        "account_code":"521109",
+                        "is_collapsed_view":false,
+                        "previous_total":[
+
+                        ]
+                    },
                     {
                         "total_sub_account":0.0,
                         "total":5321.93,
@@ -255,7 +274,7 @@
                     },
                     {
                         "total_sub_account":0.0,
-                        "total":11432735.5700000003,
+                        "total":11465735.5700000003,
                         "account_id":"5975823000000100649",
                         "depth":0,
                         "previous_values":[
@@ -274,7 +293,7 @@
                     },
                     {
                         "total_sub_account":0.0,
-                        "total":22146.0,
+                        "total":28896.0,
                         "account_id":"5975823000000100667",
                         "depth":0,
                         "previous_values":[
@@ -293,7 +312,7 @@
                     },
                     {
                         "total_sub_account":0.0,
-                        "total":3554.98,
+                        "total":4736.98,
                         "account_id":"5975823000000100679",
                         "depth":0,
                         "previous_values":[
@@ -540,7 +559,7 @@
                     },
                     {
                         "total_sub_account":0.0,
-                        "total":184165.46,
+                        "total":186432.34,
                         "account_id":"5975823000000100703",
                         "depth":0,
                         "previous_values":[
@@ -939,7 +958,7 @@
                     },
                     {
                         "total_sub_account":0.0,
-                        "total":3000.0,
+                        "total":11551.0,
                         "account_id":"5975823000000100571",
                         "depth":0,
                         "previous_values":[
@@ -1216,7 +1235,7 @@
         ]
     },
     {
-        "total":8290037.4699999997,
+        "total":8185732.5899999999,
         "previous_values":[
 
         ],
@@ -2476,7 +2495,7 @@
         ]
     },
     {
-        "total":8290037.4699999997,
+        "total":8185732.5899999999,
         "previous_values":[
 
         ],
