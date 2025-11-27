@@ -1,6 +1,6 @@
 [
     {
-        "total":10764410.9199999999,
+        "total":10758968.6199999992,
         "previous_values":[
 
         ],
@@ -95,7 +95,7 @@
                 ]
             },
             {
-                "total":19342872.4600000009,
+                "total":19348314.7600000016,
                 "total_label":"Total Cost of Goods Sold",
                 "previous_values":[
 
@@ -160,7 +160,7 @@
                     },
                     {
                         "total_sub_account":0.0,
-                        "total":800.0,
+                        "total":811.5,
                         "account_id":"5975823000000101087",
                         "depth":0,
                         "previous_values":[
@@ -445,7 +445,7 @@
                     },
                     {
                         "total_sub_account":0.0,
-                        "total":387.0,
+                        "total":437.0,
                         "account_id":"5975823000000101093",
                         "depth":0,
                         "previous_values":[
@@ -464,7 +464,7 @@
                     },
                     {
                         "total_sub_account":0.0,
-                        "total":2780.0,
+                        "total":3258.26,
                         "account_id":"5975823000000100739",
                         "depth":0,
                         "previous_values":[
@@ -578,7 +578,7 @@
                     },
                     {
                         "total_sub_account":0.0,
-                        "total":194495.99,
+                        "total":198997.38,
                         "account_id":"5975823000000100703",
                         "depth":0,
                         "previous_values":[
@@ -1091,7 +1091,7 @@
                     },
                     {
                         "total_sub_account":0.0,
-                        "total":1107.2,
+                        "total":1237.35,
                         "account_id":"5975823000000100967",
                         "depth":0,
                         "previous_values":[
@@ -1167,7 +1167,7 @@
                     },
                     {
                         "total_sub_account":0.0,
-                        "total":2478.9,
+                        "total":2590.9,
                         "account_id":"5975823000000100781",
                         "depth":0,
                         "previous_values":[
@@ -1186,7 +1186,7 @@
                     },
                     {
                         "total_sub_account":0.0,
-                        "total":4298.52,
+                        "total":4457.52,
                         "account_id":"5975823000000101135",
                         "depth":0,
                         "previous_values":[
@@ -1254,7 +1254,7 @@
         ]
     },
     {
-        "total":8767341.8900000006,
+        "total":8761899.5899999999,
         "previous_values":[
 
         ],
@@ -2533,7 +2533,7 @@
         ]
     },
     {
-        "total":8767341.8900000006,
+        "total":8761899.5899999999,
         "previous_values":[
 
         ],
