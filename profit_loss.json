@@ -14,7 +14,7 @@
                 "account_transactions":[
                     {
                         "total_sub_account":0.0,
-                        "total":21411371.2699999996,
+                        "total":22354329.6000000015,
                         "account_id":"5975823000000099419",
                         "depth":0,
                         "previous_values":[
@@ -64,25 +64,6 @@
 
                         ],
                         "account_code":"412",
-                        "is_collapsed_view":false,
-                        "previous_total":[
-
-                        ]
-                    },
-                    {
-                        "total_sub_account":0.0,
-                        "total":942958.33,
-                        "account_id":"5975823000000000388",
-                        "depth":0,
-                        "previous_values":[
-
-                        ],
-                        "is_child_present":false,
-                        "name":"Sales",
-                        "previous_total_sub_account":[
-
-                        ],
-                        "account_code":"",
                         "is_collapsed_view":false,
                         "previous_total":[
 
