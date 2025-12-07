@@ -1,6 +1,6 @@
 [
     {
-        "total":10687735.8800000008,
+        "total":10953644.0099999998,
         "previous_values":[
 
         ],
@@ -76,7 +76,7 @@
                 ]
             },
             {
-                "total":19419547.5,
+                "total":19153639.370000001,
                 "total_label":"Total Cost of Goods Sold",
                 "previous_values":[
 
@@ -502,7 +502,7 @@
                     },
                     {
                         "total_sub_account":0.0,
-                        "total":143870.1,
+                        "total":125447.23,
                         "account_id":"5975823000000100511",
                         "depth":0,
                         "previous_values":[
@@ -939,7 +939,7 @@
                     },
                     {
                         "total_sub_account":0.0,
-                        "total":2036526.3500000001,
+                        "total":1789041.0900000001,
                         "account_id":"5975823000000100499",
                         "depth":0,
                         "previous_values":[
@@ -1235,13 +1235,13 @@
         ]
     },
     {
-        "total":8582803.3900000006,
+        "total":8886252.2599999998,
         "previous_values":[
 
         ],
         "account_transactions":[
             {
-                "total":2104932.4900000002,
+                "total":2067391.75,
                 "total_label":"Total Operating Expense",
                 "previous_values":[
 
@@ -2180,7 +2180,7 @@
                     },
                     {
                         "total_sub_account":0.0,
-                        "total":446800.0,
+                        "total":450000.0,
                         "account_id":"5975823000000101219",
                         "depth":0,
                         "previous_values":[
@@ -2287,25 +2287,6 @@
 
                         ],
                         "account_code":"630101",
-                        "is_collapsed_view":false,
-                        "previous_total":[
-
-                        ]
-                    },
-                    {
-                        "total_sub_account":0.0,
-                        "total":40740.74,
-                        "account_id":"5975823000000000445",
-                        "depth":0,
-                        "previous_values":[
-
-                        ],
-                        "is_child_present":false,
-                        "name":"Salaries and Employee Wages",
-                        "previous_total_sub_account":[
-
-                        ],
-                        "account_code":"",
                         "is_collapsed_view":false,
                         "previous_total":[
 
@@ -2533,7 +2514,7 @@
         ]
     },
     {
-        "total":8582803.3900000006,
+        "total":8886252.2599999998,
         "previous_values":[
 
         ],
