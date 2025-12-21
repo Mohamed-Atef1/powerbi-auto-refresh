@@ -1,6 +1,6 @@
 [
     {
-        "total":11213790.9499999993,
+        "total":11201976.1699999999,
         "previous_values":[
 
         ],
@@ -76,7 +76,7 @@
                 ]
             },
             {
-                "total":19409992.4299999997,
+                "total":19421807.2100000009,
                 "total_label":"Total Cost of Goods Sold",
                 "previous_values":[
 
@@ -787,6 +787,25 @@
                     },
                     {
                         "total_sub_account":0.0,
+                        "total":349.02,
+                        "account_id":"5975823000000101105",
+                        "depth":0,
+                        "previous_values":[
+
+                        ],
+                        "is_child_present":false,
+                        "name":"Miscellaneous - 530106 - نثريات",
+                        "previous_total_sub_account":[
+
+                        ],
+                        "account_code":"530106",
+                        "is_collapsed_view":false,
+                        "previous_total":[
+
+                        ]
+                    },
+                    {
+                        "total_sub_account":0.0,
                         "total":270.0,
                         "account_id":"5975823000000100949",
                         "depth":0,
@@ -1110,7 +1129,7 @@
                     },
                     {
                         "total_sub_account":0.0,
-                        "total":8554.78,
+                        "total":12750.1,
                         "account_id":"5975823000000101027",
                         "depth":0,
                         "previous_values":[
@@ -1167,7 +1186,7 @@
                     },
                     {
                         "total_sub_account":0.0,
-                        "total":4457.52,
+                        "total":11727.96,
                         "account_id":"5975823000000101135",
                         "depth":0,
                         "previous_values":[
@@ -1235,7 +1254,7 @@
         ]
     },
     {
-        "total":9101382.9499999993,
+        "total":9089568.1699999999,
         "previous_values":[
 
         ],
@@ -2514,7 +2533,7 @@
         ]
     },
     {
-        "total":9101382.9499999993,
+        "total":9089568.1699999999,
         "previous_values":[
 
         ],
