@@ -1,6 +1,6 @@
 [
     {
-        "total":11706376.1699999999,
+        "total":11747284.9199999999,
         "previous_values":[
 
         ],
@@ -76,7 +76,7 @@
                 ]
             },
             {
-                "total":19421807.2100000009,
+                "total":19380898.4600000009,
                 "total_label":"Total Cost of Goods Sold",
                 "previous_values":[
 
@@ -274,7 +274,7 @@
                     },
                     {
                         "total_sub_account":0.0,
-                        "total":11490185.5700000003,
+                        "total":11474206.7699999996,
                         "account_id":"5975823000000100649",
                         "depth":0,
                         "previous_values":[
@@ -958,7 +958,7 @@
                     },
                     {
                         "total_sub_account":0.0,
-                        "total":2021710.5700000001,
+                        "total":1996780.6200000001,
                         "account_id":"5975823000000100499",
                         "depth":0,
                         "previous_values":[
@@ -1260,7 +1260,7 @@
         ],
         "account_transactions":[
             {
-                "total":2112408.0,
+                "total":2153316.75,
                 "total_label":"Total Operating Expense",
                 "previous_values":[
 
@@ -1451,6 +1451,25 @@
 
                         ],
                         "account_code":"620101",
+                        "is_collapsed_view":false,
+                        "previous_total":[
+
+                        ]
+                    },
+                    {
+                        "total_sub_account":0.0,
+                        "total":15978.75,
+                        "account_id":"5975823000000101699",
+                        "depth":0,
+                        "previous_values":[
+
+                        ],
+                        "is_child_present":false,
+                        "name":"Consultation fees - 620108 - اتعاب استشارات",
+                        "previous_total_sub_account":[
+
+                        ],
+                        "account_code":"620108",
                         "is_collapsed_view":false,
                         "previous_total":[
 
@@ -2199,7 +2218,7 @@
                     },
                     {
                         "total_sub_account":0.0,
-                        "total":495000.0,
+                        "total":507465.0,
                         "account_id":"5975823000000101219",
                         "depth":0,
                         "previous_values":[
@@ -2211,6 +2230,25 @@
 
                         ],
                         "account_code":"610101",
+                        "is_collapsed_view":false,
+                        "previous_total":[
+
+                        ]
+                    },
+                    {
+                        "total_sub_account":0.0,
+                        "total":12465.0,
+                        "account_id":"5975823000000102943",
+                        "depth":0,
+                        "previous_values":[
+
+                        ],
+                        "is_child_present":false,
+                        "name":"payroll - 710101 - الرواتب وما في حكمها",
+                        "previous_total_sub_account":[
+
+                        ],
+                        "account_code":"710101",
                         "is_collapsed_view":false,
                         "previous_total":[
 
