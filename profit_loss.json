@@ -1,6 +1,6 @@
 [
     {
-        "total":11251830.6899999995,
+        "total":11251332.6899999995,
         "previous_values":[
 
         ],
@@ -76,7 +76,7 @@
                 ]
             },
             {
-                "total":19919852.6900000013,
+                "total":19920350.6900000013,
                 "total_label":"Total Cost of Goods Sold",
                 "previous_values":[
 
@@ -559,7 +559,7 @@
                     },
                     {
                         "total_sub_account":0.0,
-                        "total":199359.23,
+                        "total":199857.23,
                         "account_id":"5975823000000100703",
                         "depth":0,
                         "previous_values":[
@@ -1254,13 +1254,13 @@
         ]
     },
     {
-        "total":9073309.8399999999,
+        "total":9071911.8399999999,
         "previous_values":[
 
         ],
         "account_transactions":[
             {
-                "total":2178520.8500000001,
+                "total":2179420.8500000001,
                 "total_label":"Total Operating Expense",
                 "previous_values":[
 
@@ -1325,7 +1325,7 @@
                     },
                     {
                         "total_sub_account":0.0,
-                        "total":6081.78,
+                        "total":6781.78,
                         "account_id":"5975823000000101381",
                         "depth":0,
                         "previous_values":[
@@ -2484,7 +2484,7 @@
                     },
                     {
                         "total_sub_account":0.0,
-                        "total":6636.4,
+                        "total":6836.4,
                         "account_id":"5975823000000101285",
                         "depth":0,
                         "previous_values":[
@@ -2571,7 +2571,7 @@
         ]
     },
     {
-        "total":9073309.8399999999,
+        "total":9071911.8399999999,
         "previous_values":[
 
         ],
