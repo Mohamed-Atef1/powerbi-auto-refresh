@@ -1,12 +1,12 @@
 [
     {
-        "total":11215521.2699999996,
+        "total":13173521.2699999996,
         "previous_values":[
 
         ],
         "account_transactions":[
             {
-                "total":31171683.379999999,
+                "total":33129683.379999999,
                 "total_label":"Total Operating Income",
                 "previous_values":[
 
@@ -14,7 +14,7 @@
                 "account_transactions":[
                     {
                         "total_sub_account":0.0,
-                        "total":22354329.6000000015,
+                        "total":24312329.6000000015,
                         "account_id":"5975823000000099419",
                         "depth":0,
                         "previous_values":[
@@ -1254,7 +1254,7 @@
         ]
     },
     {
-        "total":8997732.9299999997,
+        "total":10955732.9299999997,
         "previous_values":[
 
         ],
@@ -2571,7 +2571,7 @@
         ]
     },
     {
-        "total":8997732.9299999997,
+        "total":10955732.9299999997,
         "previous_values":[
 
         ],
