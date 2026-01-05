@@ -1273,13 +1273,13 @@
         ]
     },
     {
-        "total":10880843.9900000002,
+        "total":10880757.0299999993,
         "previous_values":[
 
         ],
         "account_transactions":[
             {
-                "total":2273776.23,
+                "total":2273863.1899999999,
                 "total_label":"Total Operating Expense",
                 "previous_values":[
 
@@ -2636,6 +2636,25 @@
                     },
                     {
                         "total_sub_account":0.0,
+                        "total":86.96,
+                        "account_id":"5975823000000101855",
+                        "depth":0,
+                        "previous_values":[
+
+                        ],
+                        "is_child_present":false,
+                        "name":"Text translation fee - 621501 - اتعاب ترجمة نصية",
+                        "previous_total_sub_account":[
+
+                        ],
+                        "account_code":"621501",
+                        "is_collapsed_view":false,
+                        "previous_total":[
+
+                        ]
+                    },
+                    {
+                        "total_sub_account":0.0,
                         "total":10955.0,
                         "account_id":"5975823000000101531",
                         "depth":0,
@@ -2742,7 +2761,7 @@
         ]
     },
     {
-        "total":10882887.5899999999,
+        "total":10882800.6300000008,
         "previous_values":[
 
         ],
