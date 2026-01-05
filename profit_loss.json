@@ -1254,13 +1254,13 @@
         ]
     },
     {
-        "total":10948865.6400000006,
+        "total":10900520.4499999993,
         "previous_values":[
 
         ],
         "account_transactions":[
             {
-                "total":2224655.6299999999,
+                "total":2273000.8199999998,
                 "total_label":"Total Operating Expense",
                 "previous_values":[
 
@@ -1344,6 +1344,25 @@
                     },
                     {
                         "total_sub_account":0.0,
+                        "total":69.0,
+                        "account_id":"5975823000000103129",
+                        "depth":0,
+                        "previous_values":[
+
+                        ],
+                        "is_child_present":false,
+                        "name":"Cleaning - 730103 - نظافة",
+                        "previous_total_sub_account":[
+
+                        ],
+                        "account_code":"730103",
+                        "is_collapsed_view":false,
+                        "previous_total":[
+
+                        ]
+                    },
+                    {
+                        "total_sub_account":0.0,
                         "total":190144.0,
                         "account_id":"5975823000000101555",
                         "depth":0,
@@ -1363,7 +1382,7 @@
                     },
                     {
                         "total_sub_account":0.0,
-                        "total":195.0,
+                        "total":18895.0,
                         "account_id":"5975823000000102979",
                         "depth":0,
                         "previous_values":[
@@ -1470,6 +1489,25 @@
 
                         ],
                         "account_code":"620101",
+                        "is_collapsed_view":false,
+                        "previous_total":[
+
+                        ]
+                    },
+                    {
+                        "total_sub_account":0.0,
+                        "total":13750.0,
+                        "account_id":"5975823000000103057",
+                        "depth":0,
+                        "previous_values":[
+
+                        ],
+                        "is_child_present":false,
+                        "name":"Consultants fees - 720101 - اتعاب مستشارين",
+                        "previous_total_sub_account":[
+
+                        ],
+                        "account_code":"720101",
                         "is_collapsed_view":false,
                         "previous_total":[
 
@@ -1686,7 +1724,7 @@
                     },
                     {
                         "total_sub_account":0.0,
-                        "total":14945.04,
+                        "total":15991.5,
                         "account_id":"5975823000000102997",
                         "depth":0,
                         "previous_values":[
@@ -1914,7 +1952,7 @@
                     },
                     {
                         "total_sub_account":0.0,
-                        "total":2407.0,
+                        "total":7611.15,
                         "account_id":"5975823000000103039",
                         "depth":0,
                         "previous_values":[
@@ -2389,6 +2427,25 @@
                     },
                     {
                         "total_sub_account":0.0,
+                        "total":101.0,
+                        "account_id":"5975823000000103111",
+                        "depth":0,
+                        "previous_values":[
+
+                        ],
+                        "is_child_present":false,
+                        "name":"Shipping and delivery fees - 721305 - ارساليات و رسوم توصيل",
+                        "previous_total_sub_account":[
+
+                        ],
+                        "account_code":"721305",
+                        "is_collapsed_view":false,
+                        "previous_total":[
+
+                        ]
+                    },
+                    {
+                        "total_sub_account":0.0,
                         "total":200.0,
                         "account_id":"5975823000000101879",
                         "depth":0,
@@ -2427,7 +2484,7 @@
                     },
                     {
                         "total_sub_account":0.0,
-                        "total":4773.09,
+                        "total":6240.67,
                         "account_id":"5975823000000103123",
                         "depth":0,
                         "previous_values":[
@@ -2503,7 +2560,7 @@
                     },
                     {
                         "total_sub_account":0.0,
-                        "total":400.0,
+                        "total":8407.0,
                         "account_id":"5975823000000103147",
                         "depth":0,
                         "previous_values":[
@@ -2628,7 +2685,7 @@
         ]
     },
     {
-        "total":10948865.6400000006,
+        "total":10900520.4499999993,
         "previous_values":[
 
         ],
