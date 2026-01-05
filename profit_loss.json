@@ -1254,13 +1254,13 @@
         ]
     },
     {
-        "total":10900520.4499999993,
+        "total":10900112.1600000001,
         "previous_values":[
 
         ],
         "account_transactions":[
             {
-                "total":2273000.8199999998,
+                "total":2273409.1099999999,
                 "total_label":"Total Operating Expense",
                 "previous_values":[
 
@@ -1287,7 +1287,7 @@
                     },
                     {
                         "total_sub_account":0.0,
-                        "total":5993.96,
+                        "total":5996.17,
                         "account_id":"5975823000000101393",
                         "depth":0,
                         "previous_values":[
@@ -1527,6 +1527,25 @@
 
                         ],
                         "account_code":"620108",
+                        "is_collapsed_view":false,
+                        "previous_total":[
+
+                        ]
+                    },
+                    {
+                        "total_sub_account":0.0,
+                        "total":406.08,
+                        "account_id":"5975823000000101411",
+                        "depth":0,
+                        "previous_values":[
+
+                        ],
+                        "is_child_present":false,
+                        "name":"Currency exchange difference - 630109 - فروقات صرف عملات",
+                        "previous_total_sub_account":[
+
+                        ],
+                        "account_code":"630109",
                         "is_collapsed_view":false,
                         "previous_total":[
 
@@ -2685,7 +2704,7 @@
         ]
     },
     {
-        "total":10900520.4499999993,
+        "total":10900112.1600000001,
         "previous_values":[
 
         ],
