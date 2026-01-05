@@ -1254,13 +1254,13 @@
         ]
     },
     {
-        "total":10955732.9299999997,
+        "total":10948865.6400000006,
         "previous_values":[
 
         ],
         "account_transactions":[
             {
-                "total":2217788.3399999999,
+                "total":2224655.6299999999,
                 "total_label":"Total Operating Expense",
                 "previous_values":[
 
@@ -1363,6 +1363,25 @@
                     },
                     {
                         "total_sub_account":0.0,
+                        "total":195.0,
+                        "account_id":"5975823000000102979",
+                        "depth":0,
+                        "previous_values":[
+
+                        ],
+                        "is_child_present":false,
+                        "name":"Co-operators fees - 720103 - اتعاب متعاوني مشاريع",
+                        "previous_total_sub_account":[
+
+                        ],
+                        "account_code":"720103",
+                        "is_collapsed_view":false,
+                        "previous_total":[
+
+                        ]
+                    },
+                    {
+                        "total_sub_account":0.0,
                         "total":17500.0,
                         "account_id":"5975823000000101717",
                         "depth":0,
@@ -1382,7 +1401,7 @@
                     },
                     {
                         "total_sub_account":0.0,
-                        "total":7536.46,
+                        "total":7204.75,
                         "account_id":"5975823000000101723",
                         "depth":0,
                         "previous_values":[
@@ -1401,7 +1420,7 @@
                     },
                     {
                         "total_sub_account":0.0,
-                        "total":1518.88,
+                        "total":2075.05,
                         "account_id":"5975823000000102985",
                         "depth":0,
                         "previous_values":[
@@ -1629,7 +1648,7 @@
                     },
                     {
                         "total_sub_account":0.0,
-                        "total":3750.0,
+                        "total":5250.0,
                         "account_id":"5975823000000102991",
                         "depth":0,
                         "previous_values":[
@@ -1648,7 +1667,7 @@
                     },
                     {
                         "total_sub_account":0.0,
-                        "total":18185.33,
+                        "total":17036.74,
                         "account_id":"5975823000000101561",
                         "depth":0,
                         "previous_values":[
@@ -1667,7 +1686,7 @@
                     },
                     {
                         "total_sub_account":0.0,
-                        "total":12769.37,
+                        "total":14945.04,
                         "account_id":"5975823000000102997",
                         "depth":0,
                         "previous_values":[
@@ -1888,6 +1907,25 @@
 
                         ],
                         "account_code":"620501",
+                        "is_collapsed_view":false,
+                        "previous_total":[
+
+                        ]
+                    },
+                    {
+                        "total_sub_account":0.0,
+                        "total":2407.0,
+                        "account_id":"5975823000000103039",
+                        "depth":0,
+                        "previous_values":[
+
+                        ],
+                        "is_child_present":false,
+                        "name":"Hospitality - 720501 - ضيافة",
+                        "previous_total_sub_account":[
+
+                        ],
+                        "account_code":"720501",
                         "is_collapsed_view":false,
                         "previous_total":[
 
@@ -2389,7 +2427,7 @@
                     },
                     {
                         "total_sub_account":0.0,
-                        "total":3659.34,
+                        "total":4773.09,
                         "account_id":"5975823000000103123",
                         "depth":0,
                         "previous_values":[
@@ -2458,6 +2496,25 @@
 
                         ],
                         "account_code":"630116",
+                        "is_collapsed_view":false,
+                        "previous_total":[
+
+                        ]
+                    },
+                    {
+                        "total_sub_account":0.0,
+                        "total":400.0,
+                        "account_id":"5975823000000103147",
+                        "depth":0,
+                        "previous_values":[
+
+                        ],
+                        "is_child_present":false,
+                        "name":"Technical and electronic tools - 730116 - ادوات تقنية والكترونية وعدد",
+                        "previous_total_sub_account":[
+
+                        ],
+                        "account_code":"730116",
                         "is_collapsed_view":false,
                         "previous_total":[
 
@@ -2571,7 +2628,7 @@
         ]
     },
     {
-        "total":10955732.9299999997,
+        "total":10948865.6400000006,
         "previous_values":[
 
         ],
