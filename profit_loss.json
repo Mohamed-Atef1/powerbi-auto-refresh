@@ -1,6 +1,6 @@
 [
     {
-        "total":13173521.2699999996,
+        "total":13171550.1999999993,
         "previous_values":[
 
         ],
@@ -76,7 +76,7 @@
                 ]
             },
             {
-                "total":19956162.1099999994,
+                "total":19958133.1799999997,
                 "total_label":"Total Cost of Goods Sold",
                 "previous_values":[
 
@@ -103,7 +103,7 @@
                     },
                     {
                         "total_sub_account":0.0,
-                        "total":5321.93,
+                        "total":7293.0,
                         "account_id":"5975823000000101099",
                         "depth":0,
                         "previous_values":[
@@ -1254,13 +1254,13 @@
         ]
     },
     {
-        "total":10900047.8100000005,
+        "total":10898059.5,
         "previous_values":[
 
         ],
         "account_transactions":[
             {
-                "total":2273473.46,
+                "total":2273490.7000000002,
                 "total_label":"Total Operating Expense",
                 "previous_values":[
 
@@ -1287,7 +1287,7 @@
                     },
                     {
                         "total_sub_account":0.0,
-                        "total":6060.52,
+                        "total":6077.76,
                         "account_id":"5975823000000101393",
                         "depth":0,
                         "previous_values":[
@@ -2704,19 +2704,37 @@
         ]
     },
     {
-        "total":10900047.8100000005,
+        "total":10900103.0999999996,
         "previous_values":[
 
         ],
         "account_transactions":[
             {
-                "total":0.0,
+                "total":2043.6,
                 "total_label":"Total Non Operating Income",
                 "previous_values":[
 
                 ],
                 "account_transactions":[
+                    {
+                        "total_sub_account":0.0,
+                        "total":2043.6,
+                        "account_id":"5975823000000103327",
+                        "depth":0,
+                        "previous_values":[
 
+                        ],
+                        "is_child_present":false,
+                        "name":"Othe revenue - إيرادات أخرى",
+                        "previous_total_sub_account":[
+
+                        ],
+                        "account_code":"422",
+                        "is_collapsed_view":false,
+                        "previous_total":[
+
+                        ]
+                    }
                 ],
                 "name":"Non Operating Income",
                 "previous_total":[
