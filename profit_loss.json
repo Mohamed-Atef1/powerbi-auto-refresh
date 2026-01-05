@@ -1,6 +1,6 @@
 [
     {
-        "total":13171550.1999999993,
+        "total":13154620.2200000007,
         "previous_values":[
 
         ],
@@ -76,7 +76,7 @@
                 ]
             },
             {
-                "total":19958133.1799999997,
+                "total":19975063.1600000001,
                 "total_label":"Total Cost of Goods Sold",
                 "previous_values":[
 
@@ -350,7 +350,7 @@
                     },
                     {
                         "total_sub_account":0.0,
-                        "total":67845.91,
+                        "total":82225.89,
                         "account_id":"5975823000000100523",
                         "depth":0,
                         "previous_values":[
@@ -1091,6 +1091,25 @@
                     },
                     {
                         "total_sub_account":0.0,
+                        "total":2550.0,
+                        "account_id":"5975823000000100919",
+                        "depth":0,
+                        "previous_values":[
+
+                        ],
+                        "is_child_present":false,
+                        "name":"Shields printing - 521108 - مطبوعات دروع",
+                        "previous_total_sub_account":[
+
+                        ],
+                        "account_code":"521108",
+                        "is_collapsed_view":false,
+                        "previous_total":[
+
+                        ]
+                    },
+                    {
+                        "total_sub_account":0.0,
                         "total":1857.35,
                         "account_id":"5975823000000100967",
                         "depth":0,
@@ -1254,13 +1273,13 @@
         ]
     },
     {
-        "total":10898059.5,
+        "total":10880843.9900000002,
         "previous_values":[
 
         ],
         "account_transactions":[
             {
-                "total":2273490.7000000002,
+                "total":2273776.23,
                 "total_label":"Total Operating Expense",
                 "previous_values":[
 
@@ -1553,7 +1572,7 @@
                     },
                     {
                         "total_sub_account":0.0,
-                        "total":14510.24,
+                        "total":14556.6,
                         "account_id":"5975823000000102847",
                         "depth":0,
                         "previous_values":[
@@ -1572,7 +1591,7 @@
                     },
                     {
                         "total_sub_account":0.0,
-                        "total":451.32,
+                        "total":502.88,
                         "account_id":"5975823000000102901",
                         "depth":0,
                         "previous_values":[
@@ -2351,6 +2370,25 @@
                     },
                     {
                         "total_sub_account":0.0,
+                        "total":187.61,
+                        "account_id":"5975823000000101441",
+                        "depth":0,
+                        "previous_values":[
+
+                        ],
+                        "is_child_present":false,
+                        "name":"Penalities - 630114 - غرامات ومخالفات",
+                        "previous_total_sub_account":[
+
+                        ],
+                        "account_code":"630114",
+                        "is_collapsed_view":false,
+                        "previous_total":[
+
+                        ]
+                    },
+                    {
+                        "total_sub_account":0.0,
                         "total":10300.0,
                         "account_id":"5975823000000101711",
                         "depth":0,
@@ -2704,7 +2742,7 @@
         ]
     },
     {
-        "total":10900103.0999999996,
+        "total":10882887.5899999999,
         "previous_values":[
 
         ],
