@@ -1,6 +1,6 @@
 [
     {
-        "total":11415476.9299999997,
+        "total":11444408.1799999997,
         "previous_values":[
 
         ],
@@ -76,7 +76,7 @@
                 ]
             },
             {
-                "total":21714206.4499999993,
+                "total":21685275.1999999993,
                 "total_label":"Total Cost of Goods Sold",
                 "previous_values":[
 
@@ -274,7 +274,7 @@
                     },
                     {
                         "total_sub_account":0.0,
-                        "total":13230858.9399999995,
+                        "total":13225357.6799999997,
                         "account_id":"5975823000000100649",
                         "depth":0,
                         "previous_values":[
@@ -958,7 +958,7 @@
                     },
                     {
                         "total_sub_account":0.0,
-                        "total":2278314.27,
+                        "total":2253384.2799999998,
                         "account_id":"5975823000000100499",
                         "depth":0,
                         "previous_values":[
@@ -1243,6 +1243,25 @@
                     },
                     {
                         "total_sub_account":0.0,
+                        "total":1500.0,
+                        "account_id":"5975823000000101117",
+                        "depth":0,
+                        "previous_values":[
+
+                        ],
+                        "is_child_present":false,
+                        "name":"Withhodling tax - 530108 - ضريبة استقطاع",
+                        "previous_total_sub_account":[
+
+                        ],
+                        "account_code":"530108",
+                        "is_collapsed_view":false,
+                        "previous_total":[
+
+                        ]
+                    },
+                    {
+                        "total_sub_account":0.0,
                         "total":51674.49,
                         "account_id":"5975823000000100715",
                         "depth":0,
@@ -1273,13 +1292,13 @@
         ]
     },
     {
-        "total":9141613.7400000002,
+        "total":9140113.7400000002,
         "previous_values":[
 
         ],
         "account_transactions":[
             {
-                "total":2273863.1899999999,
+                "total":2304294.4399999999,
                 "total_label":"Total Operating Expense",
                 "previous_values":[
 
@@ -1534,7 +1553,7 @@
                     },
                     {
                         "total_sub_account":0.0,
-                        "total":15978.75,
+                        "total":21480.0,
                         "account_id":"5975823000000101699",
                         "depth":0,
                         "previous_values":[
@@ -2332,7 +2351,7 @@
                     },
                     {
                         "total_sub_account":0.0,
-                        "total":507465.0,
+                        "total":519930.0,
                         "account_id":"5975823000000101219",
                         "depth":0,
                         "previous_values":[
@@ -2351,7 +2370,7 @@
                     },
                     {
                         "total_sub_account":0.0,
-                        "total":12465.0,
+                        "total":24930.0,
                         "account_id":"5975823000000102943",
                         "depth":0,
                         "previous_values":[
@@ -2761,7 +2780,7 @@
         ]
     },
     {
-        "total":9143657.3399999999,
+        "total":9142157.3399999999,
         "previous_values":[
 
         ],
