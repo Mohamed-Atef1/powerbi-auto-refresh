@@ -2780,13 +2780,13 @@
         ]
     },
     {
-        "total":3513434.77,
+        "total":3612074.0499999998,
         "previous_values":[
 
         ],
         "account_transactions":[
             {
-                "total":2043.6,
+                "total":100682.88,
                 "total_label":"Total Non Operating Income",
                 "previous_values":[
 
@@ -2794,7 +2794,7 @@
                 "account_transactions":[
                     {
                         "total_sub_account":0.0,
-                        "total":2043.6,
+                        "total":100682.88,
                         "account_id":"5975823000000103327",
                         "depth":0,
                         "previous_values":[
