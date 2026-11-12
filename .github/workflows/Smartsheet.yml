@@ -3,7 +3,7 @@ run-name: "Sync #${{ github.run_number }} (${{ github.event_name }})"
 
 on:
   schedule:
-    - cron: "7,37 * * * *"   # الدقيقة 7 و37 من كل ساعة (احتياطي)
+    - cron: "7,9 * * * *"   # الدقيقة 7 و37 من كل ساعة (احتياطي)
 
   workflow_dispatch:
 
